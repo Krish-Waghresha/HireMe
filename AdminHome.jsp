@@ -1,8 +1,3 @@
-<%-- 
-    Document   : AdminHome
-    Created on : Jan 10, 2014, 10:42:33 PM
-    Author     : Vishal
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

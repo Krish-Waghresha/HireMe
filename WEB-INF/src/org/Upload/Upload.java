@@ -28,10 +28,6 @@ import org.apache.commons.fileupload.FileUploadException;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
-/**
- *
- * @author Vishal
- */
 public class Upload extends HttpServlet {
 
     private static final String DATA_DIRECTORY = "Resume";

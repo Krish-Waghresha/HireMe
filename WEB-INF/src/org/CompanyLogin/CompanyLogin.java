@@ -19,10 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import org.DBConnect.DBConnect;
 
-/**
- *
- * @author Vishal
- */
+
 public class CompanyLogin extends HttpServlet {
 
     /** 

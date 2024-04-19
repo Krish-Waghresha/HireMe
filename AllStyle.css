@@ -1,49 +1,10 @@
-/* 
-*/
 
-/* 
-   TODO customize this sample style
-   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
-*/
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 *{
     font-family: 'Poppins';
 }
-/* .bgbody{
-    background-image:  url("img/bg1.jpg");
-}
-.tbladvbg{
-    background-image:  url("img/bg9.jpg");
-}
-.tblcmpbg{
-    background-image:  url("img/bg10.jpg");
-}
-.firstcol{
-
-    
-    background-image: url("img/bg3.jpg");
-
-    background-repeat: repeat;
-
-
-}
-.secondcol{
-
-    
-    background-image: url("img/bg4.jpg");
-    background-repeat:repeat;
-
-}
-.thirdcol{
-
-   
-    background-image: url("img/bg3.jpg");
-    background-repeat: repeat;
-
-}
-/*Main Menu Style*/
 #navigation {
  margin: 0;
  padding: 0 1em;
@@ -135,15 +96,7 @@ TableStyle td {
 .adminBg{
       background-image: url("img/abg1.jpg");
 }
-/*.regstyleform{
-    height:auto;
-    width: 80%;
-    position: fixed;
-    left: 10%;
-    right: 10%;
-    background-image: url("img/bg6.jpg");
 
-}*/
 
 
 .kode-mono-font {

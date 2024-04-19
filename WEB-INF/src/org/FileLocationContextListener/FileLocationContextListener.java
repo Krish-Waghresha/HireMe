@@ -4,10 +4,6 @@
  */
 package org.FileLocationContextListener;
 
-/**
- *
- * @author Vishal
- */
 import java.io.File;
 	 
 	import javax.servlet.ServletContext;

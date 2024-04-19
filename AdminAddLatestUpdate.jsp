@@ -1,8 +1,3 @@
-<%-- 
-    Document   : AdminAddLatestUpdate
-    Created on : Feb 3, 2014, 11:36:23 AM
-    Author     : Vishal
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

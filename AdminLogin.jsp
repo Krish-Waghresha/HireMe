@@ -1,8 +1,3 @@
-<%-- 
-    Document   : AdminLogin
-    Created on : Jan 8, 2014, 9:01:00 PM
-    Author     : Vishal
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

@@ -1,9 +1,3 @@
-<%-- 
-    Document   : SendMail
-    Created on : Feb 6, 2014, 10:08:21 PM
-    Author     : Vishal
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>

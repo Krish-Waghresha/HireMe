@@ -1,8 +1,3 @@
-<%-- 
-    Document   : CmpnyReg
-    Created on : Dec 9, 2013, 10:55:19 PM
-    Author     : Vishal
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
